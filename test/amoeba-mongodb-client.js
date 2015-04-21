@@ -1,5 +1,5 @@
 var assert = require("assert");
-var Amoeba = require("../../amoeba.io");
+var Amoeba = require("amoeba.io");
 var MongodbClient = require("../lib/amoeba-mongodb-client");
 var MongoClient = require('mongodb').MongoClient;
 
